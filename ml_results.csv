@@ -1,0 +1,3 @@
+model,rmse,r2,seconds
+LinearRegression,5.556,0.8948,18.97
+GBTRegressor,5.917,0.8807,55.17

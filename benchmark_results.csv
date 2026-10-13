@@ -1,0 +1,13 @@
+cores,mode,run,seconds
+4,federated,1,20.89
+4,centralized,1,35.53
+4,federated,2,15.15
+4,centralized,2,24.65
+2,federated,1,20.27
+2,centralized,1,34.96
+2,federated,2,22.4
+2,centralized,2,33.98
+1,federated,1,34.33
+1,centralized,1,55.92
+1,federated,2,35.98
+1,centralized,2,56.39

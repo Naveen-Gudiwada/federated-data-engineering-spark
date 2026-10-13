@@ -1,0 +1,7 @@
+timestamp,role,cloud,action,columns
+2026-10-13T21:18:49,admin,A,READ,VendorID;tpep_pickup_datetime;tpep_dropoff_datetime;passenger_count;trip_distance;PULocationID;DOLocationID;fare_amount;tip_amount;total_amount;source_cloud
+2026-10-13T21:18:50,admin,B,READ,VendorID;tpep_pickup_datetime;tpep_dropoff_datetime;passenger_count;trip_distance;PULocationID;DOLocationID;fare_amount;tip_amount;total_amount;source_cloud
+2026-10-13T21:18:50,admin,C,READ,VendorID;tpep_pickup_datetime;tpep_dropoff_datetime;passenger_count;trip_distance;PULocationID;DOLocationID;fare_amount;tip_amount;total_amount;source_cloud
+2026-10-13T21:18:50,analyst,A,READ,VendorID;tpep_pickup_datetime;tpep_dropoff_datetime;passenger_count;trip_distance;PULocationID;DOLocationID;fare_amount;total_amount;source_cloud
+2026-10-13T21:18:50,analyst,B,READ,VendorID;tpep_pickup_datetime;tpep_dropoff_datetime;passenger_count;trip_distance;PULocationID;DOLocationID;fare_amount;total_amount;source_cloud
+2026-10-13T21:18:51,analyst,C,READ,VendorID;tpep_pickup_datetime;tpep_dropoff_datetime;passenger_count;trip_distance;PULocationID;DOLocationID;fare_amount;total_amount;source_cloud

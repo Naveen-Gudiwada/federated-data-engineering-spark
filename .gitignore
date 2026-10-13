@@ -1,0 +1,12 @@
+venv/
+data/
+cloud_A/
+cloud_B/
+cloud_C/
+central/
+__pycache__/
+spark-warehouse/
+metastore_db/
+derby.log
+*.pyc
+videos/
